@@ -105,13 +105,11 @@ Al finalizar esta practica se pudo evidenciar la importancia de la practica ante
 
 ## 10. Bibliografía
     
-- Shotts, W. E. (2019). The Linux command line: A complete introduction (2nd ed.). No Starch Press.
+Docker Inc. (n.d.). Docker overview. https://docs.docker.com/get-started/overview/
 
-- Chacon, S., & Straub, B. (2014). Pro Git (2nd ed.). Apress. https://git-scm.com/book/en/v2
+Nginx Inc. (n.d.). NGINX Documentation. https://docs.nginx.com/
 
-- Ghazal, B. (2020). Linux basics for hackers: Getting started with networking, scripting, and security in Kali. No Starch Press.
-
-
+Turnbull, J. (2014). The Docker Book: Containerization is the new virtualization. James Turnbull. (Disponible en línea: https://www.dockerbook.com/)
 
 audio:
 
